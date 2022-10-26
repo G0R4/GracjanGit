@@ -1,6 +1,6 @@
 ﻿
 using System;
-
+namespace WSBExercise
 {
     class Program
     {
@@ -99,4 +99,4 @@ using System;
 
         }
     }
-}
+}     
